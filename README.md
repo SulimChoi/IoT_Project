@@ -17,4 +17,4 @@
     - Tact Switch: 두더지가 나타나는 구역에 해당하는 스위치를 누르면 점수 획득
 
 ## 프로젝트 진행 상황
-* [[1차진행] Dot Matrix 화면 및 게임 시작 화면 구현]()
+* [[1차진행] Dot Matrix 화면 및 게임 시작 화면 구현](https://www.notion.so/1-Dot-Matrix-524956653caf4b9aad0a93ee2a1e1561)
