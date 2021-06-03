@@ -140,7 +140,7 @@ values start(){
 int declife(int l, int d){
     	l = l >> 1;
     	if(l <= 0) {
-    	    clcd_input("GAME FAIL");
+    	    clcd_input("GAME OVER");
     	    sleep(3);
     	    exit(0);
     	}
