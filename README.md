@@ -19,3 +19,4 @@
 ## 프로젝트 진행 상황
 * [[1차진행] Dot Matrix 화면 및 게임 시작 화면 구현](https://www.notion.so/1-Dot-Matrix-524956653caf4b9aad0a93ee2a1e1561)
 * [[2차진행] Dot Matrix와 Tact Switch 연동 1](https://www.notion.so/2-Dot-Matrix-Tact-Switch-84a9e266d6ba4483913fbc81a7ed56fc)
+* [[3차진행] Dot Matrix와 Tact Switch 연동 2](https://www.notion.so/3-Dot-Matrix-Tact-Switch-2-1f29a13d4ebf405aa0e4d3471f3ce52c)
