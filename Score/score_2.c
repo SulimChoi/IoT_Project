@@ -158,11 +158,7 @@ int main(){
 	fnd_print(score);
 	sleep(5);
 	return 0;
-}	
-		
-		
-		
-		
+}		
 
 values start(){
 	// 게임 시작 및 종료 여부 질의 
@@ -282,7 +278,6 @@ int dipsw_input_x(){
 	return c;
 }
 
-
 // chip LED 출력 함수
 void led_control(int sw_num){
 	int led_d;
@@ -299,7 +294,6 @@ void led_control(int sw_num){
 	led_d = close(led_d);
 } 
 
-
 // 목숨 선택에 따른 점수 가중치 함수 
 int calc_score(int life){
 	int plus_score = 0;
@@ -311,7 +305,6 @@ int calc_score(int life){
 	}
 	return plus_score;
 }
-
 
 // fnd에 최종 score를 출력해주는 함수
 int fnd_print(int score){
@@ -357,7 +350,6 @@ int fnd_print(int score){
 	close(fnd_d);
 	return 0;
 }
-
 
 // fnd_data에 넣을 값을 반환해주는 함수
 unsigned char fnd_input(int num){
