@@ -21,4 +21,4 @@
 * [[2차진행] Dot Matrix와 Tact Switch 연동 1](https://www.notion.so/2-Dot-Matrix-Tact-Switch-84a9e266d6ba4483913fbc81a7ed56fc)
 * [[3차진행] Dot Matrix와 Tact Switch 연동 2](https://www.notion.so/3-Dot-Matrix-Tact-Switch-2-1f29a13d4ebf405aa0e4d3471f3ce52c)
 * [[4차진행] Character LCD에 중간 점수 출력](https://www.notion.so/4-Character-LCD-382e2e32652c44bfa71589e6b3bac28e)
-* [[5차진행] 초기 설정별 점수 차별화]()
+* [[5차진행] 초기 설정별 점수 차별화](https://www.notion.so/5-09cc8f87986648d280c1aeabe69fa0bc)
