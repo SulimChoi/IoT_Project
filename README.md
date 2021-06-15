@@ -22,3 +22,6 @@
 * [[3차진행] Dot Matrix와 Tact Switch 연동 2](https://www.notion.so/3-Dot-Matrix-Tact-Switch-2-1f29a13d4ebf405aa0e4d3471f3ce52c)
 * [[4차진행] Character LCD에 중간 점수 출력](https://www.notion.so/4-Character-LCD-382e2e32652c44bfa71589e6b3bac28e)
 * [[5차진행] 초기 설정별 점수 차별화](https://www.notion.so/5-09cc8f87986648d280c1aeabe69fa0bc)
+* [[6차진행] Segment 화면에 최종 점수 출력](https://www.notion.so/6-Segment-9004d68fb5144a4891451a7acf3832fe)
+* [[7차진행] 게임 라운드 추가](https://www.notion.so/7-f05a8e0ed4ef48728abcaec80ce4bf84)
+* [[8차진행] 두더지 게임 최종 코드](https://www.notion.so/a36722abd02d46fd990a3d10538ee3a6)
